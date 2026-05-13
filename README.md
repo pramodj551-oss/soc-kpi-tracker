@@ -117,4 +117,4 @@ Built as part of the **Applied AI & ML Essentials** program at **IIT Patna (Vish
 
 ---
 
-*Part of my AI Security portfolio — [portfolio-eta-ashen-pxpaf816ec.vercel.app](https://pramodjadhav.vercel.app)*
+*Part of my AI Security portfolio — [pramodjadhav.vercel.app](https://pramodjadhav.vercel.app)*
